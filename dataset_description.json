@@ -1,0 +1,8 @@
+{
+    "Name": "Perinatal Stroke",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Evan Gordon, Ph.D.",
+	"Timothy Laumann, Ph.D."
+	]
+}
